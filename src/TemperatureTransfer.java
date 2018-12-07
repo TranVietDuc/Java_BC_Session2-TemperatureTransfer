@@ -9,7 +9,7 @@ public class TemperatureTransfer {
      do{
          System.out.println("Menu");
          System.out.println("1. Fahrenheit to Celsius");
-         System.out.println("2. Celsius to Fahrenheit hahaha");
+         System.out.println("2. Celsius to Fahrenheit hahahaheheh);
          System.out.println("0. Exit");
          System.out.println("Enter your choice: ");
          choice = input.nextInt();
